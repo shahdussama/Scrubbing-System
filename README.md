@@ -23,3 +23,12 @@ The goal of the project is to ensure the reliability, correctness, and performan
 src/        -> Source code
 Tests/      -> Test cases and testing files
 pom.xml     -> Maven dependencies and configuration
+
+## Screenshots
+
+![DigitScrubberTest](screenshots/DigitScrubberTest.png)
+
+![EmailScrubberTest](screenshots/EmailScrubberTest.png)
+
+![MainScrubberTest](screenshots/MainScrubberTest.png)
+

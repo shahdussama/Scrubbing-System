@@ -26,9 +26,10 @@ pom.xml     -> Maven dependencies and configuration
 
 ## Screenshots
 
-![DigitScrubberTest](screenshots/DigitScrubberTest.png)
+![DigitScrubberTest](Screenshots/DigitScrubberTest.png)
 
-![EmailScrubberTest](screenshots/EmailScrubberTest.png)
+![EmailScrubberTest](Screenshots/EmailScrubberTest.png)
 
-![MainScrubberTest](screenshots/MainScrubberTest.png)
+![MainScrubberTest](Screenshots/MainScrubberTest.png)
+
 

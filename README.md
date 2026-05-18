@@ -26,13 +26,13 @@ pom.xml     -> Maven dependencies and configuration
 
 ## Screenshots
 ### DigitScrubber
-![DigitScrubberTest](Scrubbing_Syetem_Test_SW_Testing/Screenshots/DigitScrubberTest.png)
+![DigitScrubberTest](Scrubbing_Syetem_Test_SW_Testing\Screenshots\DigitScrubberTest.png)
 
 ### EmailScrubber
-![EmailScrubberTest](Scrubbing_Syetem_Test_SW_Testing/Screenshots/EmailScrubberTest.png)
+![EmailScrubberTest](Scrubbing_Syetem_Test_SW_Testing\Screenshots\EmailScrubberTest.png)
 
 ### MainScrubber
-![MainScrubberTest](Scrubbing_Syetem_Test_SW_Testing/Screenshots/MainScrubberTest.png)
+![MainScrubberTest](Scrubbing_Syetem_Test_SW_Testing\Screenshots\MainScrubberTest.png)
 
 
 

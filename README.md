@@ -26,7 +26,7 @@ The goal of the project is to ensure the reliability, correctness, and performan
 ![EmailScrubberTest](Screenshots/EmailScrubberTest.png)
 
 ### MainScrubber
-![MainScrubberTest](Scrubbing_Syetem_Test_SW_Testing/Screenshots/MainScrubberTest.png)
+![MainScrubberTest](Scrubbing_Syetem_Test_SW_Testing\Screenshots\MainScrubberTest.png)
 
 ## Project Structure
 ```text

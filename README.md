@@ -20,7 +20,7 @@ The goal of the project is to ensure the reliability, correctness, and performan
 
 ## screenshots
 ### DigitScrubber
-![DigitScrubberTest](Scrubbing_Syetem_Test_SW_Testing\Scrubbing_Syetem_Test_SW_Testing\Screenshots\DigitScrubberTest.png)
+![DigitScrubberTest](Scrubbing_Syetem_Test_SW_Testing/Scrubbing_Syetem_Test_SW_Testing/Screenshots/DigitScrubberTest.png)
 
 ### EmailScrubber
 ![EmailScrubberTest](Scrubbing_Syetem_Test_SW_Testing/Scrubbing_Syetem_Test_SW_Testing/Screenshots/EmailScrubberTest.png)

@@ -18,21 +18,24 @@ The goal of the project is to ensure the reliability, correctness, and performan
 - Selenium
 - Maven
 
+## screenshots
+### DigitScrubber
+![DigitScrubberTest](Screenshots/DigitScrubberTest.png)
+
+### EmailScrubber
+![EmailScrubberTest](Screenshots/EmailScrubberTest.png)
+
+### MainScrubber
+![MainScrubberTest](Screenshots/MainScrubberTest.png)
+
 ## Project Structure
 ```text
 src/        -> Source code
 Tests/      -> Test cases and testing files
 pom.xml     -> Maven dependencies and configuration
 
-## Screenshots
-### DigitScrubber
-![DigitScrubberTest](Scrubbing_Syetem_Test_SW_Testing\Screenshots\DigitScrubberTest.png)
 
-### EmailScrubber
-![EmailScrubberTest](Scrubbing_Syetem_Test_SW_Testing\Screenshots\EmailScrubberTest.png)
 
-### MainScrubber
-![MainScrubberTest](Scrubbing_Syetem_Test_SW_Testing\Screenshots\MainScrubberTest.png)
 
 
 
